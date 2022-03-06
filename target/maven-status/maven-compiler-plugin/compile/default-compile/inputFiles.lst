@@ -1,2 +1,6 @@
-/Users/javierteo/Documents/Projects/fussy/src/main/java/com/fussy/fussy/fussy/HomeController.java
-/Users/javierteo/Documents/Projects/fussy/src/main/java/com/fussy/fussy/fussy/FussyApplication.java
+/Users/javierteo/Documents/Projects/fussy/src/main/java/com/fussy/fussy/repository/UsersRepository.java
+/Users/javierteo/Documents/Projects/fussy/src/main/java/com/fussy/fussy/service/UsersService.java
+/Users/javierteo/Documents/Projects/fussy/src/main/java/com/fussy/fussy/HomeController.java
+/Users/javierteo/Documents/Projects/fussy/src/main/java/com/fussy/fussy/FussyApplication.java
+/Users/javierteo/Documents/Projects/fussy/src/main/java/com/fussy/fussy/model/UsersModel.java
+/Users/javierteo/Documents/Projects/fussy/src/main/java/com/fussy/fussy/controller/UsersController.java
